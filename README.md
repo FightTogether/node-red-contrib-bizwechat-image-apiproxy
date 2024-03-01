@@ -1,3 +1,5 @@
+#### 增加api代理的支持
+  用于非部署在公网服务器的情况，配合node-red-contrib-bizwechat-apiproxy 1.2.1使用 
 #### #基于[企业微信节点](https://flows.nodered.org/node/node-red-contrib-bizwechat "企业微信节点")的图片上传补丁节点,可生成返回图片url供后续使用.
 
 就是把原企业微信节点的临时素材上传功能拆出来小改了下,版权归属原作者@FlashSoft.
