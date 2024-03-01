@@ -1,5 +1,5 @@
 {
-  "name": "node-red-contrib-bizwechat-image",
+  "name": "node-red-contrib-bizwechat-image-apiproxy",
   "version": "0.0.5",
   "description": "上传图片到企业微信平台,返回图片url到node-red",
   "main": "bizwechat-image.js",
