@@ -15,12 +15,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/iso-lib/node-red-contrib-bizwechat-image/issues"
+    "url": "https://github.com/FightTogether/node-red-contrib-bizwechat-image-apiproxy/issues"
   },
-  "homepage": "https://github.com/iso-lib/node-red-contrib-bizwechat-image#readme",
+  "homepage": "https://github.com/FightTogether/node-red-contrib-bizwechat-image-apiproxy#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iso-lib/node-red-contrib-bizwechat-image.git"
+    "url": "git+https://github.com/FightTogether/node-red-contrib-bizwechat-image-apiproxy.git"
   },
   "dependencies": {
     "axios": ">=0.18.1",
